@@ -2,3 +2,4 @@ add and remove users
 change the roles
 this section is branch to pushing to github
 manage the database
+changed again closing the connection
